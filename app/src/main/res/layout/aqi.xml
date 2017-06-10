@@ -45,6 +45,7 @@
                     android:layout_gravity="center"
                     android:text="AQI指数"
                     android:textColor="#fff"/>
+
             </LinearLayout>
 
         </RelativeLayout>
